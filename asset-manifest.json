@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TODO-list.git/static/css/main.db270f4b.css",
-    "main.js": "/TODO-list.git/static/js/main.353366a0.js",
-    "static/media/icons.woff": "/TODO-list.git/static/media/icons.17d5d893b5eb771c29d4.woff",
-    "static/media/icons.woff2": "/TODO-list.git/static/media/icons.0d03c74ad5f53f726e95.woff2",
-    "index.html": "/TODO-list.git/index.html",
-    "main.db270f4b.css.map": "/TODO-list.git/static/css/main.db270f4b.css.map",
-    "main.353366a0.js.map": "/TODO-list.git/static/js/main.353366a0.js.map"
+    "main.css": "/TODO-list/static/css/main.9ac9c367.css",
+    "main.js": "/TODO-list/static/js/main.353366a0.js",
+    "static/media/icons.woff": "/TODO-list/static/media/icons.17d5d893b5eb771c29d4.woff",
+    "static/media/icons.woff2": "/TODO-list/static/media/icons.0d03c74ad5f53f726e95.woff2",
+    "index.html": "/TODO-list/index.html",
+    "main.9ac9c367.css.map": "/TODO-list/static/css/main.9ac9c367.css.map",
+    "main.353366a0.js.map": "/TODO-list/static/js/main.353366a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.db270f4b.css",
+    "static/css/main.9ac9c367.css",
     "static/js/main.353366a0.js"
   ]
 }
