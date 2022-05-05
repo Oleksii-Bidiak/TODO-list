@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/TODO-list/static/css/main.26ae5102.css",
-    "main.js": "/github.io/TODO-list/static/js/main.353366a0.js",
-    "static/media/icons.woff": "/github.io/TODO-list/static/media/icons.17d5d893b5eb771c29d4.woff",
-    "static/media/icons.woff2": "/github.io/TODO-list/static/media/icons.0d03c74ad5f53f726e95.woff2",
-    "index.html": "/github.io/TODO-list/index.html",
-    "main.26ae5102.css.map": "/github.io/TODO-list/static/css/main.26ae5102.css.map",
-    "main.353366a0.js.map": "/github.io/TODO-list/static/js/main.353366a0.js.map"
+    "main.css": "/Oleksii-Bidiak/TODO-list.git/static/css/main.353d9879.css",
+    "main.js": "/Oleksii-Bidiak/TODO-list.git/static/js/main.353366a0.js",
+    "static/media/icons.woff": "/Oleksii-Bidiak/TODO-list.git/static/media/icons.17d5d893b5eb771c29d4.woff",
+    "static/media/icons.woff2": "/Oleksii-Bidiak/TODO-list.git/static/media/icons.0d03c74ad5f53f726e95.woff2",
+    "index.html": "/Oleksii-Bidiak/TODO-list.git/index.html",
+    "main.353d9879.css.map": "/Oleksii-Bidiak/TODO-list.git/static/css/main.353d9879.css.map",
+    "main.353366a0.js.map": "/Oleksii-Bidiak/TODO-list.git/static/js/main.353366a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.26ae5102.css",
+    "static/css/main.353d9879.css",
     "static/js/main.353366a0.js"
   ]
 }
