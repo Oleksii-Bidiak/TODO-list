@@ -1,0 +1,22 @@
+.todo {
+   @media (min-width: 767px) {
+      min-width: 500px;
+   }
+   background-color: #222;
+   border-radius: 15px;
+   padding: 25px;
+
+   &__title {
+      text-transform: uppercase;
+      color: #fff;
+      font-size: 25px;
+      margin-bottom: 20px;
+      font-weight: 700;
+   }
+
+   &__list {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+   }
+}
